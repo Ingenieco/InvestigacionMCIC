@@ -5,9 +5,9 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?&style=for-the-badge&logo=arcgis&logoColor=fff)
 
-## Universidad Federal do Ceará - ([UFC](https://www.ufc.br/))
+## Universidad Distrital Francisco José de Caldas - ([U. Distrital](https://www.udistrital.edu.co/inicio))
 
-## Maestría en Ciencias de la Información y las Comunicaciones - ([MMQ](https://mmq.ufc.br/pt/))
+## Maestría en Ciencias de la Información y las Comunicaciones - ([MCIC](https://mmq.ufc.br/pt/](https://facingenieria.udistrital.edu.co/maestria-ciencias-informacion/index.php/))
 ---
 
 ### Aplicativo web ([Link](https://detector-vendedores-ambulantes-aerialimages.streamlit.app/)) 👈
