@@ -10,7 +10,7 @@
 ## Maestría en Ciencias de la Información y las Comunicaciones - ([MCIC](https://mmq.ufc.br/pt/](https://facingenieria.udistrital.edu.co/maestria-ciencias-informacion/index.php/))
 ---
 
-### Aplicativo web ([Link](https://detector-vendedores-ambulantes-aerialimages.streamlit.app/)) 👈
+### Aplicativo web ([Link](https://app-deteccion-vendedores-ambulantes.streamlit.app/)) 👈
 
 ## Contenido
 
