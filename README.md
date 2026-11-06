@@ -19,7 +19,7 @@
  - [Arquitectura Yolov11](https://github.com/Ingenieco/pesquisaMMQ/blob/main/Arquitetura_Yolov11.png)
  - [Modelos (imágenes, labels)](https://github.com/Ingenieco/pesquisaMMQ/tree/main/modelo_5_bogota_v8)
  - [Imágenes teste](https://github.com/Ingenieco/pesquisaMMQ/tree/main/Imagens%20de%20teste)
- - [Despliegue web](https://github.com/Ingenieco/pesquisaMMQ/tree/main/Implanta%C3%A7%C3%A3o%20web)
+ - [Despliegue web](https://github.com/Ingenieco/InvestigacionMCIC/tree/main/despliegue_web)
  
 
 ## Autores
