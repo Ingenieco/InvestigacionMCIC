@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1660" height="960" viewBox="0 0 1660 960" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="1660" height="960" fill="#FFFFFF"/>
+
+<defs>
+  <marker id="arrowNavy" viewBox="0 0 10 10" refX="8.6" refY="5" markerWidth="7" markerHeight="7"
+          markerUnits="userSpaceOnUse" orient="auto">
+    <path d="M0.5,1 L9,5 L0.5,9 L2.6,5 Z" fill="#2C5F8A" stroke="#2C5F8A" stroke-width="0.4" stroke-linejoin="round"/>
+  </marker>
+  <marker id="arrowGray" viewBox="0 0 10 10" refX="8.6" refY="5" markerWidth="7" markerHeight="7"
+          markerUnits="userSpaceOnUse" orient="auto">
+    <path d="M0.5,1 L9,5 L0.5,9 L2.6,5 Z" fill="#6B6B6B" stroke="#6B6B6B" stroke-width="0.4" stroke-linejoin="round"/>
+  </marker>
+</defs>
+<rect x="10" y="10" width="1640" height="940" fill="none" stroke="#D8DEE6" stroke-width="1"/>
+<text x="830.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="21" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1B3A5C">Diagrama de Despliegue Web — Arquitectura de Publicación de la Aplicación</text>
+<text x="830.0" y="68" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4A4A4A">Prototipo de inferencia para la detección de vendedores ambulantes en Streamlit Cloud</text>
+<line x1="60" y1="82" x2="1600" y2="82" stroke="#D8DEE6" stroke-width="1"/>
+<circle cx="95" cy="410" r="14" fill="#FFFFFF" stroke="#2C5F8A" stroke-width="1.8"/>
+<line x1="95" y1="424" x2="95" y2="454" stroke="#2C5F8A" stroke-width="1.8"/>
+<line x1="75" y1="434" x2="115" y2="434" stroke="#2C5F8A" stroke-width="1.8"/>
+<line x1="95" y1="454" x2="77" y2="488" stroke="#2C5F8A" stroke-width="1.8"/>
+<line x1="95" y1="454" x2="113" y2="488" stroke="#2C5F8A" stroke-width="1.8"/>
+<text x="95" y="510" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1B3A5C">Usuario</text>
+<polygon points="420,380 434,366 434,486 420,500" fill="#B9D4EF" stroke="#2C5F8A" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="190,380 204,366 434,366 420,380" fill="#D3E4F5" stroke="#2C5F8A" stroke-width="1.4" stroke-linejoin="round"/>
+<rect x="190" y="380" width="230" height="120" fill="#EAF2FB" stroke="#2C5F8A" stroke-width="1.4"/>
+<text x="305.0" y="414" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#2C5F8A">«dispositivo cliente»</text>
+<text x="305.0" y="434" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1B3A5C">Navegador web</text>
+<text x="305.0" y="460" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" fill="#4A4A4A">Interfaz Streamlit</text>
+<text x="305.0" y="478" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" font-style="normal" text-anchor="middle" fill="#4A4A4A">(HTML5 / JavaScript)</text>
+<line x1="111" y1="450" x2="184" y2="440" stroke="#2C5F8A" stroke-width="1.6" stroke-linecap="round" marker-end="none"/>
+<polygon points="1020,150 1040,130 1040,740 1020,760" fill="#B9D4EF" stroke="#2C5F8A" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="560,150 580,130 1040,130 1020,150" fill="#D3E4F5" stroke="#2C5F8A" stroke-width="1.4" stroke-linejoin="round"/>
+<rect x="560" y="150" width="460" height="610" fill="#EAF2FB" stroke="#2C5F8A" stroke-width="1.4"/>
+<text x="790.0" y="190" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#2C5F8A">«entorno de ejecución (PaaS)»</text>
+<text x="790.0" y="210" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1B3A5C">Streamlit Cloud</text>
+<rect x="584" y="230" width="412" height="60" rx="4" ry="4" fill="#FFFFFF" stroke="#7C93AC" stroke-width="1.3"/>
+<polygon points="596,242 606,242 612,248 612,262 596,262" fill="#FFFFFF" stroke="#2C5F8A" stroke-width="1.1"/>
+<polyline points="606,242 606,248 612,248" fill="none" stroke="#2C5F8A" stroke-width="1.1"/>
+<line x1="599" y1="253" x2="609" y2="253" stroke="#2C5F8A" stroke-width="0.8"/>
+<line x1="599" y1="257" x2="609" y2="257" stroke="#2C5F8A" stroke-width="0.8"/>
+<text x="624" y="252" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1B3A5C">Aplicación Streamlit</text>
+<text x="624" y="270.0" font-family="Helvetica, Arial, sans-serif" font-size="11.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#4A4A4A">(código fuente de la aplicación: interfaz y orquestación)</text>
+<rect x="584" y="310" width="412" height="150" rx="4" ry="4" fill="#FFFFFF" stroke="#7C93AC" stroke-width="1.3"/>
+<polygon points="596,322 606,322 612,328 612,342 596,342" fill="#FFFFFF" stroke="#2C5F8A" stroke-width="1.1"/>
+<polyline points="606,322 606,328 612,328" fill="none" stroke="#2C5F8A" stroke-width="1.1"/>
+<line x1="599" y1="333" x2="609" y2="333" stroke="#2C5F8A" stroke-width="0.8"/>
+<line x1="599" y1="337" x2="609" y2="337" stroke="#2C5F8A" stroke-width="0.8"/>
+<text x="624" y="332" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1B3A5C">Módulos Python</text>
+<text x="624" y="350.0" font-family="Helvetica, Arial, sans-serif" font-size="11.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#4A4A4A">• Rasterio, GDAL — lectura y procesamiento de ráster</text>
+<text x="624" y="365.5" font-family="Helvetica, Arial, sans-serif" font-size="11.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#4A4A4A">• GeoPandas, Shapely, pyproj — geometría y reproyección</text>
+<text x="624" y="381.0" font-family="Helvetica, Arial, sans-serif" font-size="11.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#4A4A4A">• Matplotlib, Contextily — generación de mapas y capas base</text>
+<text x="624" y="396.5" font-family="Helvetica, Arial, sans-serif" font-size="11.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#4A4A4A">• Roboflow SDK — comunicación con la API de inferencia</text>
+<rect x="584" y="480" width="412" height="60" rx="4" ry="4" fill="#FFFFFF" stroke="#7C93AC" stroke-width="1.3"/>
+<polygon points="596,492 606,492 612,498 612,512 596,512" fill="#FFFFFF" stroke="#2C5F8A" stroke-width="1.1"/>
+<polyline points="606,492 606,498 612,498" fill="none" stroke="#2C5F8A" stroke-width="1.1"/>
+<line x1="599" y1="503" x2="609" y2="503" stroke="#2C5F8A" stroke-width="0.8"/>
+<line x1="599" y1="507" x2="609" y2="507" stroke="#2C5F8A" stroke-width="0.8"/>
+<text x="624" y="502" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1B3A5C">/tmp</text>
+<text x="624" y="520.0" font-family="Helvetica, Arial, sans-serif" font-size="11.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#4A4A4A">(almacenamiento efímero en tiempo de ejecución)</text>
+<line x1="434" y1="440.0" x2="556" y2="335.0" stroke="#2C5F8A" stroke-width="1.9" stroke-linecap="round" marker-end="url(#arrowNavy)"/>
+<text x="497.0" y="323.0" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1B3A5C">«HTTPS»</text>
+<path d="M 1345.0,380.0 C 1303.0,380.0 1270.0,345.2 1270.0,300.8 C 1270.0,262.8 1294.0,231.2 1327.0,221.7 C 1336.0,202.7 1357.0,190.0 1381.0,190.0 C 1402.0,190.0 1423.0,199.5 1435.0,218.5 C 1444.0,212.2 1456.0,209.0 1468.0,209.0 C 1504.0,209.0 1534.0,240.7 1534.0,278.7 C 1555.0,291.3 1570.0,313.5 1570.0,338.8 C 1570.0,364.2 1549.0,380.0 1525.0,380.0 Z" fill="#F4F7FA" stroke="#5B7A99" stroke-width="1.6"/>
+<text x="1420.0" y="269.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#5B7A99">«servicio externo»</text>
+<text x="1420.0" y="291.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1B3A5C">Roboflow</text>
+<text x="1420.0" y="309.0" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#4A4A4A">Hosted Inference API</text>
+<path d="M 1345.0,750.0 C 1303.0,750.0 1270.0,715.2 1270.0,670.8 C 1270.0,632.8 1294.0,601.2 1327.0,591.7 C 1336.0,572.7 1357.0,560.0 1381.0,560.0 C 1402.0,560.0 1423.0,569.5 1435.0,588.5 C 1444.0,582.2 1456.0,579.0 1468.0,579.0 C 1504.0,579.0 1534.0,610.7 1534.0,648.7 C 1555.0,661.3 1570.0,683.5 1570.0,708.8 C 1570.0,734.2 1549.0,750.0 1525.0,750.0 Z" fill="#F4F7FA" stroke="#5B7A99" stroke-width="1.6"/>
+<text x="1420.0" y="639.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#5B7A99">«servicio externo»</text>
+<text x="1420.0" y="661.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1B3A5C">Servidor de teselas</text>
+<text x="1420.0" y="679.0" font-family="Helvetica, Arial, sans-serif" font-size="10.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#4A4A4A">CartoDB Positron (mapa base)</text>
+<line x1="1046" y1="300.8333333333333" x2="1264" y2="300.8333333333333" stroke="#6B6B6B" stroke-width="1.8" stroke-dasharray="7,5" stroke-linecap="butt" marker-end="url(#arrowGray)"/>
+<text x="1155.0" y="266.8333333333333" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1B3A5C">«HTTPS» inferencia</text>
+<text x="1155.0" y="284.8333333333333" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4A4A4A">predict(tile, conf, …)</text>
+<line x1="1046" y1="670.8333333333334" x2="1264" y2="670.8333333333334" stroke="#6B6B6B" stroke-width="1.8" stroke-dasharray="7,5" stroke-linecap="butt" marker-end="url(#arrowGray)"/>
+<text x="1155.0" y="636.8333333333334" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1B3A5C">«HTTPS» teselas XYZ</text>
+<text x="1155.0" y="654.8333333333334" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4A4A4A">solicitud de mapas base</text>
+<path d="M60,560 L442,560 L460,578 L460,750 L60,750 Z" fill="#FFF8DC" stroke="#B8962E" stroke-width="1.3"/>
+<path d="M442,560 L442,578 L460,578" fill="none" stroke="#B8962E" stroke-width="1.1"/>
+<text x="76" y="584" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" font-style="normal" text-anchor="start" fill="#7A5C10">Notas de despliegue</text>
+<circle cx="78" cy="602" r="2.6" fill="#7A5C10"/>
+<text x="88" y="606" font-family="Helvetica, Arial, sans-serif" font-size="11.3" font-weight="normal" font-style="normal" text-anchor="start" fill="#3A3A3A">Misma lógica de procesamiento que en el entorno local</text>
+<circle cx="78" cy="626" r="2.6" fill="#7A5C10"/>
+<text x="88" y="630" font-family="Helvetica, Arial, sans-serif" font-size="11.3" font-weight="normal" font-style="normal" text-anchor="start" fill="#3A3A3A">El directorio /tmp es efímero: los reinicios borran los archivos</text>
+<circle cx="78" cy="650" r="2.6" fill="#7A5C10"/>
+<text x="88" y="654" font-family="Helvetica, Arial, sans-serif" font-size="11.3" font-weight="normal" font-style="normal" text-anchor="start" fill="#3A3A3A">Dependencias gestionadas mediante requirements.txt</text>
+<circle cx="78" cy="674" r="2.6" fill="#7A5C10"/>
+<text x="88" y="678" font-family="Helvetica, Arial, sans-serif" font-size="11.3" font-weight="normal" font-style="normal" text-anchor="start" fill="#3A3A3A">Datos PROJ (pyproj) incluidos en la imagen base del contenedor</text>
+<line x1="460" y1="600" x2="556" y2="640" stroke="#B8962E" stroke-width="1.2" stroke-dasharray="7,5" stroke-linecap="butt" marker-end="none"/>
+<line x1="60" y1="876" x2="1600" y2="876" stroke="#D8DEE6" stroke-width="1"/>
+<text x="60" y="900" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" font-style="normal" text-anchor="start" fill="#1B3A5C">Leyenda:</text>
+<line x1="150" y1="896" x2="200" y2="896" stroke="#2C5F8A" stroke-width="1.9" stroke-linecap="round" marker-end="url(#arrowNavy)"/>
+<text x="212" y="900" font-family="Helvetica, Arial, sans-serif" font-size="11.3" font-weight="normal" font-style="normal" text-anchor="start" fill="#4A4A4A">comunicación directa (mismo origen / solicitud síncrona)</text>
+<line x1="650" y1="896" x2="700" y2="896" stroke="#6B6B6B" stroke-width="1.6" stroke-dasharray="7,5" stroke-linecap="butt" marker-end="url(#arrowGray)"/>
+<text x="712" y="900" font-family="Helvetica, Arial, sans-serif" font-size="11.3" font-weight="normal" font-style="normal" text-anchor="start" fill="#4A4A4A">llamada a servicio externo vía API (HTTPS)</text>
+</svg>
